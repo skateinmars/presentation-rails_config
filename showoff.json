@@ -1,0 +1,8 @@
+{ 
+  "name": "rails_config", 
+  "sections": [ 
+    {"section": "introduction"},
+    {"section": "usage"},
+    {"section": "conclusion"}  
+  ]
+}
